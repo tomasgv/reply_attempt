@@ -1,0 +1,12 @@
+ingrid - get info from input files
+francsco - MODEL NODES
+tomas - COUNT ALL SCORE
+X - COUNT ALL COST
+X - PLACE TILES
+X
+
+
+pauperrimo
+
+
+RUN with python3 main.py
